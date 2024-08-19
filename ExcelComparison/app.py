@@ -4,7 +4,7 @@ from io import BytesIO
 import xlsxwriter
 
 # Streamlit configurations
-st.set_page_config(page_title="PE-StatsAnalysis | KentK.", layout="wide")
+st.set_page_config(page_title="ExcelComparison | KentK.", layout="wide")
 hide_st_style = """
                 <style>
                 #MainMenu {visibility:hidden;}
